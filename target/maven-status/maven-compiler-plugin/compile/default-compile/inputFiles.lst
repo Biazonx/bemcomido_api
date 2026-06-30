@@ -1,0 +1,13 @@
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\dto\PratoResponseDTO.java
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\controller\PratoController.java
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\controller\CorsConfig.java
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\model\CategoriaPrato.java
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\service\PratoService.java
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\model\Prato.java
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\dto\PratoRequestDTO.java
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\strategy\FiltroCardapioStrategy.java
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\controller\GlobalExceptionHandler.java
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\strategy\FiltroFaixaPrecoStrategy.java
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\repository\PratoRepository.java
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\BemComidoApplication.java
+C:\Users\User\Downloads\bemcomido-api\src\main\java\com\bemcomido\api\strategy\FiltroDisponivelStrategy.java

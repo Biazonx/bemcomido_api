@@ -1,0 +1,14 @@
+com\bemcomido\api\strategy\FiltroCardapioStrategy.class
+com\bemcomido\api\model\CategoriaPrato.class
+com\bemcomido\api\controller\CorsConfig.class
+com\bemcomido\api\BemComidoApplication.class
+com\bemcomido\api\repository\PratoRepository.class
+com\bemcomido\api\model\Prato.class
+com\bemcomido\api\controller\CorsConfig$1.class
+com\bemcomido\api\service\PratoService.class
+com\bemcomido\api\dto\PratoResponseDTO.class
+com\bemcomido\api\controller\GlobalExceptionHandler.class
+com\bemcomido\api\controller\PratoController.class
+com\bemcomido\api\dto\PratoRequestDTO.class
+com\bemcomido\api\strategy\FiltroDisponivelStrategy.class
+com\bemcomido\api\strategy\FiltroFaixaPrecoStrategy.class
