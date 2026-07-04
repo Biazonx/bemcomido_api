@@ -120,11 +120,11 @@ src/main/java/com/bemcomido/api/
 
 ---
 
-<img width="1919" height="870" alt="Captura de tela 2026-07-04 125933" src="https://github.com/user-attachments/assets/e7b0fe53-5318-486a-a721-1562d8406c93" />
+<img width="1919" height="910" alt="Captura de tela 2026-07-04 125924" src="https://github.com/user-attachments/assets/85c93b7a-f6be-4839-9248-3376991951d0" />
 
 ---
 
-<img width="1919" height="910" alt="Captura de tela 2026-07-04 125924" src="https://github.com/user-attachments/assets/85c93b7a-f6be-4839-9248-3376991951d0" />
+<img width="1919" height="870" alt="Captura de tela 2026-07-04 125933" src="https://github.com/user-attachments/assets/e7b0fe53-5318-486a-a721-1562d8406c93" />
 
 ---
 
