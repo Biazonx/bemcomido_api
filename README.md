@@ -138,4 +138,6 @@ src/main/java/com/bemcomido/api/
 
 <img width="445" height="140" alt="Captura de tela 2026-07-04 130006" src="https://github.com/user-attachments/assets/decbb3bf-3176-4b4c-a8b0-78380c4496fb" />
 
+---
+
 <img width="1919" height="906" alt="Captura de tela 2026-07-04 125032" src="https://github.com/user-attachments/assets/ab6bc2d7-120a-4182-bd05-935df75c0c94" />
