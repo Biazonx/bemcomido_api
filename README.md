@@ -87,24 +87,6 @@ curl -X DELETE http://localhost:8080/api/pratos/1
 
 ---
 
-## Integração com Frontend (Next.js)
-
-1. Instale o Axios no projeto frontend:
-```bash
-npm install axios
-```
-
-2. Copie o arquivo `frontend-integration/cardapioService.ts` para `src/services/` no seu projeto Next.js.
-
-3. Use nas suas páginas/componentes:
-```typescript
-import { listarPratosDisponiveis } from '@/services/cardapioService';
-
-const pratos = await listarPratosDisponiveis();
-```
-
----
-
 ## Estrutura do projeto
 ```
 src/main/java/com/bemcomido/api/
@@ -131,3 +113,19 @@ src/main/java/com/bemcomido/api/
 
 ## Repositório Frontend
 [https://github.com/Biazonx/bemcomido_web_01](https://github.com/Biazonx/bemcomido_web_01)
+
+## Funcionamento
+
+<img width="1919" height="906" alt="Captura de tela 2026-07-04 125032" src="https://github.com/user-attachments/assets/cbb84b04-b4e7-4be2-b1ef-7d64f69993fd" />
+
+<img width="1919" height="870" alt="Captura de tela 2026-07-04 125933" src="https://github.com/user-attachments/assets/e7b0fe53-5318-486a-a721-1562d8406c93" />
+
+<img width="1919" height="910" alt="Captura de tela 2026-07-04 125924" src="https://github.com/user-attachments/assets/85c93b7a-f6be-4839-9248-3376991951d0" />
+
+<img width="1919" height="905" alt="Captura de tela 2026-07-04 125949" src="https://github.com/user-attachments/assets/e190634c-e79e-4cf5-a93d-cab08a2b847b" />
+
+<img width="1919" height="907" alt="Captura de tela 2026-07-04 125956" src="https://github.com/user-attachments/assets/3c5a5eaf-1e3b-46e3-b13a-f53367a6d522" />
+
+<img width="445" height="140" alt="Captura de tela 2026-07-04 130006" src="https://github.com/user-attachments/assets/decbb3bf-3176-4b4c-a8b0-78380c4496fb" />
+
+<img width="1919" height="906" alt="Captura de tela 2026-07-04 125032" src="https://github.com/user-attachments/assets/ab6bc2d7-120a-4182-bd05-935df75c0c94" />
